@@ -1,0 +1,10 @@
+{
+    "name": "aws-sign2",
+    "description": "AWS signing. Originally pulled from LearnBoost/knox, maintained as vendor in request, now a standalone module.",
+    "repos": "https://github.com/mikeal/aws-sign",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.5.0"
+}
